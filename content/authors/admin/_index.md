@@ -32,8 +32,10 @@ education:
     institution: University of Cambridge
     year: 2021
   - course: BA MSci in Physical Natural Sciences (Materials Science)
-    institution: |2- University of Cambridge
-    Ranked first in my class for both degrees.
+    institution: |2-
+      University of Cambridge
+      Ranked first in my class for both degrees.
+      
     year: 2020
 
 # Social/Academic Networking
