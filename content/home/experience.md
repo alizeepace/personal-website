@@ -61,6 +61,6 @@ experience:
     location: Lausanne, Switzerland
     date_start: '2016-01-01'
     date_end: '2016-09-31'
-    description: Selected to write a 85-page handbook of lecture summaries for a C++ Programming course.
+    description: Selected to write a 85-page book of lecture summaries for a C++ object-oriented programming course.
     
 ---
