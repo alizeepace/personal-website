@@ -53,7 +53,7 @@ experience:
     location: Geneva, Switzerland
     date_start: '2016-08-01'
     date_end: '2016-08-30'
-    description: Development of {{< staticref "https://inveniosoftware.org/ "newtab" >}}Invenio{{< /staticref >}}} user interface and of {{< staticref "https://github.com/reanahub/reana-demo-worldpopulation" "newtab" >}}demos{{< /staticref >}}} for a reproducible analysis platform.
+    description: Development of [Invenio](https://inveniosoftware.org/) user interface and of [demos](https://github.com/reanahub/reana-demo-worldpopulation) for a reproducible analysis platform.
     
   - title: Programming Teaching Assistant
     company: Ecole Polytechnique Fédérale de Lausanne (EPFL)
@@ -61,6 +61,6 @@ experience:
     location: Lausanne, Switzerland
     date_start: '2016-01-01'
     date_end: '2016-09-30'
-    description: Selected to write a 85-page book of lecture summaries for a {{< staticref "https://www.coursera.org/learn/programmation-orientee-objet-cpp" "newtab" >}}C++ object-oriented programming course{{< /staticref >}}.
+    description: Selected to write a 85-page book of lecture summaries for a [C++ object-oriented programming course](https://www.coursera.org/learn/programmation-orientee-objet-cpp).
     
 ---
