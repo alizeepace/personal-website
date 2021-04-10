@@ -47,7 +47,7 @@ experience:
     date_end: '2018-08-01'
     description: Optimised the 3D-printing technique for biodegradable heart stents.
     
-   - title: Software Development Intern
+  - title: Software Development Intern
     company: European Organization for Nuclear Research (CERN)
     company_url: 'https://home.cern/'
     location: Geneva, Switzerland
@@ -55,7 +55,7 @@ experience:
     date_end: '2016-08-31'
     description: Development of Invenio software user interface and reproducible analysis platforms.
     
-   - title: Programming Teaching Assistant
+  - title: Programming Teaching Assistant
     company: Ecole Polytechnique Fédérale de Lausanne (EPFL)
     company_url: 'https://www.coursera.org/learn/programmation-orientee-objet-cpp'
     location: Lausanne, Switzerland
