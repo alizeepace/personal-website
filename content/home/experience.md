@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Professional Experience
 subtitle:
 
 # Date format for experience
@@ -21,25 +21,46 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+# , in a multidisciplinary collaboration with engineers and surgeons. Investigation of device design through Finite Element Modelling; signal processing and analysis; hardware and software development (Python). Two publications in preparation.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
+  - title: Research Assistant - Master's Project in Bioelectronics
+    company: Device Materials Group, University of Cambridge
+    company_url: 'https://www.kar-narayan.msm.cam.ac.uk/'
+    location: Cambridge, UK
+    date_start: '2019-09-15'
+    date_end: '2020-03-15'
+    description: Research project on printed biocompatible force sensors for orthopaedic implants.
+   
+  - title: R&D Engineering Intern - Medical Device Data Analysis
+    company: Anaconda BioMed
+    company_url: 'https://anaconda.bio/'
+    location: Barcelona, Spain
+    date_start: '2019-07-01'
+    date_end: '2019-09-15'
+    description: Development of a new thrombectomy device which restores blood flow in stroke patients.
+
+  - title: Research Assistant - 3D-Printing and CT Imaging
+    company: Cambridge Centre for Medical Materials, University of Cambridge
+    company_url: 'https://www.ccmm.msm.cam.ac.uk/'
+    location: Cambridge, UK
+    date_start: '2018-06-01'
+    date_end: '2018-08-01'
+    description: Optimised the 3D-printing technique for biodegradable heart stents.
+    
+   - title: Software Development Intern
+    company: European Organization for Nuclear Research (CERN)
+    company_url: 'https://home.cern/'
+    location: Geneva, Switzerland
+    date_start: '2016-08-01'
+    date_end: '2016-08-31'
+    description: Development of Invenio software user interface and reproducible analysis platforms.
+    
+   - title: Programming Teaching Assistant
+    company: Ecole Polytechnique Fédérale de Lausanne (EPFL)
+    company_url: 'https://www.coursera.org/learn/programmation-orientee-objet-cpp'
+    location: Lausanne, Switzerland
     date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_end: '2016-09-31'
+    description: Selected to write a 85-page handbook of lecture summaries for a C++ Programming course.
+    
 ---
