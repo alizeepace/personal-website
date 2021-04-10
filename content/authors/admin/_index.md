@@ -70,10 +70,4 @@ email: ""
 highlight_name: false
 ---
 
-#Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
 Hi! I'm Alizée, an MPhil student in Machine Learning at the University of Cambridge. I'm interested in applications of ML in healthcare, and am currently working on a project on imitation learning to better understand clinical decision-making with the {{< staticref "https://www.vanderschaar-lab.com/" "newtab" >}}Machine Learning and Artificial Intelligince for Medicine group{{< /staticref >}}. My previous experience includes medical device development for stroke treatment, sensor-assisted surgery and 3D-printed heart stents. In September 2021, I will be joining the new {{< staticref "https://ai.ethz.ch/" "newtab" >}}ETH AI Center{{< /staticref >}} for my PhD in health informatics and causal inference.
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
