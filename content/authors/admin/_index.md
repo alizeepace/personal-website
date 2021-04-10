@@ -32,7 +32,8 @@ education:
     institution: University of Cambridge
     year: 2021
   - course: BA MSci in Physical Natural Sciences (Materials Science)
-    institution: University of Cambridge
+    institution: |2- University of Cambridge
+    Ranked first in my class for both degrees.
     year: 2020
 
 # Social/Academic Networking
@@ -70,4 +71,4 @@ email: ""
 highlight_name: false
 ---
 
-Hi! I'm Alizée, an MPhil student in Machine Learning at the University of Cambridge. I'm interested in applications of ML in healthcare, and am currently working on a project on imitation learning to better understand clinical decision-making with the {{< staticref "https://www.vanderschaar-lab.com/" "newtab" >}}Machine Learning and Artificial Intelligince for Medicine group{{< /staticref >}}. My previous experience includes medical device development for stroke treatment, sensor-assisted surgery and 3D-printed heart stents. In September 2021, I will be joining the new {{< staticref "https://ai.ethz.ch/" "newtab" >}}ETH AI Center{{< /staticref >}} for my PhD in health informatics and causal inference.
+Hi! I'm Alizée, an MPhil student in Machine Learning at the University of Cambridge. I'm interested in applications of ML in healthcare, and am currently working on a project on imitation learning to better understand clinical decision-making with the {{< staticref "https://www.vanderschaar-lab.com/" "newtab" >}}Machine Learning and Artificial Intelligence for Medicine group{{< /staticref >}}. My previous experience includes both medical device development for stroke treatment, sensor-assisted surgery and 3D-printed heart stents, and software developement at CERN. In September 2021, I will be joining the new {{< staticref "https://ai.ethz.ch/" "newtab" >}}ETH AI Center{{< /staticref >}} for my PhD in health informatics and causal inference.

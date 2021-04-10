@@ -30,7 +30,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *World Biomaterials Congress*
-publication_short: In *WBC*
+#publication_short: In *WBC*
 
 abstract: The average age of a patient requiring a hip replacement is decreasing, so implants must survive greater activity levels and higher stresses than those exerted by older, less active patients. Quantitative force feedback during surgery could provide more accurate implant positioning, increasing the average lifetime and reducing the need for revision surgery.
 

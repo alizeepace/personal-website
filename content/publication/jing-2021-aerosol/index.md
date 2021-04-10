@@ -30,7 +30,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Cell Reports Physical Science*
-publication_short: In *CRPS*
+#publication_short: In *CRPS*
 
 abstract: Force sensors that are thin, low-cost, flexible, and compatible with commercial microelectronic chips are of great interest for use in biomedical sensing, precision surgery, and robotics. By leveraging a combination of microfluidics and capacitive sensing, we develop a thin, flexible force sensor that is conformable and robust. The sensor consists of a partially filled microfluidic channel made from a deformable material, with the channel overlaying a series of interdigitated electrodes coated with a thin, insulating polymer layer. When a force is applied to the microfluidic channel reservoir, the fluid is displaced along the channel over the electrodes, thus inducing a capacitance change proportional to the applied force. The microfluidic molds themselves are made of low-cost sacrificial materials deposited via aerosol-jet printing, which is also used to print the electrode layer. We envisage a large range of industrial and biomedical applications for this force sensor.
 
