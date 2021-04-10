@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -27,7 +27,6 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: true
 design:
   # Choose a view for the listings:
   #   1 = List
