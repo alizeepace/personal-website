@@ -29,7 +29,7 @@ experience:
     location: Cambridge, UK
     date_start: '2019-09-15'
     date_end: '2020-03-15'
-    description: Research project on printed biocompatible force sensors for orthopaedic implants.
+    description: Research project on printed biocompatible force sensors for orthopaedic implants. Publication in preparation.
    
   - title: R&D Engineering Intern - Medical Device Data Analysis
     company: Anaconda BioMed
@@ -37,7 +37,7 @@ experience:
     location: Barcelona, Spain
     date_start: '2019-07-01'
     date_end: '2019-09-15'
-    description: Development of a new thrombectomy device which restores blood flow in stroke patients.
+    description: Development of a new thrombectomy device which restores blood flow in stroke patients. Patent application in process.
 
   - title: Research Assistant - 3D-Printing and CT Imaging
     company: Cambridge Centre for Medical Materials, University of Cambridge
@@ -53,14 +53,14 @@ experience:
     location: Geneva, Switzerland
     date_start: '2016-08-01'
     date_end: '2016-08-30'
-    description: Development of Invenio software user interface and reproducible analysis platforms.
+    description: Development of {{< staticref "https://inveniosoftware.org/ "newtab" >}}Invenio{{< /staticref >}}} user interface and of {{< staticref "https://github.com/reanahub/reana-demo-worldpopulation" "newtab" >}}demos{{< /staticref >}}} for a reproducible analysis platform.
     
   - title: Programming Teaching Assistant
     company: Ecole Polytechnique Fédérale de Lausanne (EPFL)
-    company_url: 'https://www.coursera.org/learn/programmation-orientee-objet-cpp'
+    company_url: 'https://www.epfl.ch/en/'
     location: Lausanne, Switzerland
     date_start: '2016-01-01'
     date_end: '2016-09-30'
-    description: Selected to write a 85-page book of lecture summaries for a C++ object-oriented programming course.
+    description: Selected to write a 85-page book of lecture summaries for a {{< staticref "https://www.coursera.org/learn/programmation-orientee-objet-cpp" "newtab" >}}C++ object-oriented programming course{{< /staticref >}}.
     
 ---

@@ -17,7 +17,7 @@ authors:
 
 
 date: "2021-03-30T00:00:00Z"
-doi: "https://doi.org/10.17863/CAM.63758"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -53,7 +53,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://doi.org/10.17863/CAM.63758'
 url_video: ''
 
 # Featured image
