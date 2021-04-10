@@ -31,7 +31,7 @@ education:
   - course: MPhil in Machine Learning and Machine Intelligence
     institution: University of Cambridge
     year: 2021
-  - course: BA MSci in Materials Science
+  - course: BA MSci in Physical Natural Sciences (Materials Science)
     institution: University of Cambridge
     year: 2020
 
