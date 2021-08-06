@@ -33,9 +33,7 @@ education:
     year: 2021
   - course: BA MSci in Physical Natural Sciences (Materials Science)
     institution: |-
-      University of Cambridge
-      
-      Ranked first in my year for both degrees.
+      University of Cambridge. Ranked first in my year for both degrees.
 
     year: 2020
 
