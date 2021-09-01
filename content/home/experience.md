@@ -23,13 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 # , in a multidisciplinary collaboration with engineers and surgeons. Investigation of device design through Finite Element Modelling; signal processing and analysis; hardware and software development (Python). Two publications in preparation.
 experience:
-  - title: Research Assistant - Master's Project in Bioelectronics
+  - title: Research Assistant - Clinical Imitation Learning
+    company: Machine Learning, AI and Medicine group, University of Cambridge
+    company_url: 'https://www.vanderschaar-lab.com/'
+    location: Cambridge, UK
+    date_start: '2021-03-15'
+    date_end: '2021-09-15'
+    description: Research project on interpretable imitation learning for clinical decision support. Our goal was to describe and understand treatment or diagnostic policies through novel decision tree models, and capture how decision-making behaviour varies over time with patient information. Publication in preparation.
+
+  - title: Research Assistant - Bioelectronics
     company: Device Materials Group, University of Cambridge
     company_url: 'https://www.kar-narayan.msm.cam.ac.uk/'
     location: Cambridge, UK
     date_start: '2019-09-15'
     date_end: '2020-03-15'
-    description: Research project on printed biocompatible force sensors for orthopaedic implants. Resulted in a [publication](https://doi.org/10.17863/CAM.63758) and [poster presentation](https://www.postersessiononline.eu/173580348_eu/congresos/WBC2020/aula/-WBC2020-VIR_4625_WBC2020.pdf).
+    description: Research project on printed biocompatible force sensors for orthopaedic implants. Resulted in two publications ([here](https://doi.org/10.17863/CAM.63758), and [here](https://doi.org/10.1101/2021.08.19.456934)) and a[poster presentation](https://www.postersessiononline.eu/173580348_eu/congresos/WBC2020/aula/-WBC2020-VIR_4625_WBC2020.pdf).
    
   - title: R&D Engineering Intern - Medical Device Data Analysis
     company: Anaconda BioMed
