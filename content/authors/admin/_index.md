@@ -6,35 +6,33 @@ title: Alizée Pace
 superuser: true
 
 # Role/position/tagline
-role: MPhil Student in Machine Learning
+role: PhD Student in Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Cambridge
-  url: https://www.cam.ac.uk/
+- name: ETH Zürich
+  url: https://ai.ethz.ch/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in machine learning for health.
+bio: Interested in machine learning for medicine.
 
 # Interests to show in About widget
 interests:
 - Machine Learning
-- Health Informatics
+- Medical Informatics
 - Causal Inference
 
 # Education to show in About widget
 education:
   courses:
-#  - course: Incoming PhD in Machine Learning
-#    institution: ETH Zürich
-#    year: 2021
+  - course: PhD in Machine Learning
+    institution: ETH Zürich
+    year:
   - course: MPhil in Machine Learning and Machine Intelligence
     institution: University of Cambridge
     year: 2021
-  - course: BA MSci in Physical Natural Sciences (Materials Science)
-    institution: |-
-      University of Cambridge. Ranked first in my year for both degrees.
-
+  - course: BA MSci in Materials Science
+    institution: University of Cambridge. #Ranked first in my year for both degrees.
     year: 2020
 
 # Social/Academic Networking
@@ -72,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Hi! I'm Alizée, an MPhil student in Machine Learning at the University of Cambridge. I'm interested in applications of ML in healthcare, and am currently working on a project on imitation learning to better understand clinical decision-making with the {{< staticref "https://www.vanderschaar-lab.com/" "newtab" >}}Machine Learning and Artificial Intelligence for Medicine group{{< /staticref >}}. My previous experience includes medical device development for stroke treatment, sensor-assisted surgery and 3D-printed heart stents, as well as software developement at CERN.
+Hi! I'm Alizée, a PhD student in Machine Learning at ETH Zürich and a fellow of the {{< staticref "https://ai.ethz.ch/" "newtab" >}}ETH AI Center{{< /staticref >}}. I am lucky to work with {{< staticref "https://bmi.inf.ethz.ch/" "newtab" >}}Prof. Gunnar Rätsch{{< /staticref >}} and {{< staticref "http://ei.is.tuebingen.mpg.de/" "newtab" >}}Prof. Bernhard Schölkopf{{< /staticref >}}. I am also part of the {{< staticref "https://ellis.eu/" "newtab" >}}ELLIS{< /staticref >}} PhD program.
 
-In September 2021, I will be joining the new {{< staticref "https://ai.ethz.ch/" "newtab" >}}ETH AI Center{{< /staticref >}} for my PhD in Health Informatics and Causal Inference.
+I am interested in applications of ML and causal inference in medicine. I am currently wrapping up a project on imitation learning for clinical decision-making with {{< staticref "https://www.vanderschaar-lab.com/" "newtab" >}}Prof. Mihaela van der Schaar{{< /staticref >}} at the University of Cambridge. My previous experience includes medical device development for stroke treatment, sensor-assisted surgery and 3D-printed heart stents, as well as software engineering at CERN.
