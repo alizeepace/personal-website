@@ -37,7 +37,7 @@ experience:
     location: Cambridge, UK
     date_start: '2019-09-15'
     date_end: '2020-03-15'
-    description: Research project on printed biocompatible force sensors for orthopaedic implants. Resulted in two publications ([here](https://doi.org/10.17863/CAM.63758), and [here](https://doi.org/10.1101/2021.08.19.456934)) and a[poster presentation](https://www.postersessiononline.eu/173580348_eu/congresos/WBC2020/aula/-WBC2020-VIR_4625_WBC2020.pdf).
+    description: Research project on printed biocompatible force sensors for orthopaedic implants. Resulted in two publications ([here](https://doi.org/10.17863/CAM.63758), and [here](https://doi.org/10.1101/2021.08.19.456934)) and a [poster presentation](https://www.postersessiononline.eu/173580348_eu/congresos/WBC2020/aula/-WBC2020-VIR_4625_WBC2020.pdf).
    
   - title: R&D Engineering Intern - Medical Device Data Analysis
     company: Anaconda BioMed
