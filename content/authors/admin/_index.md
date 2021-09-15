@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Hi! I'm Alizée, a first-year PhD student in Machine Learning at ETH Zürich and a fellow of the {{< staticref "https://ai.ethz.ch/" "newtab" >}}ETH AI Center{{< /staticref >}}. I am lucky to work with {{< staticref "https://bmi.inf.ethz.ch/" "newtab" >}}Prof. Gunnar Rätsch{{< /staticref >}} and {{< staticref "http://ei.is.tuebingen.mpg.de/" "newtab" >}}Prof. Bernhard Schölkopf{{< /staticref >}}, and am also part of the {{< staticref "https://ellis.eu/" "newtab" >}}ELLIS{{< /staticref >}} PhD program.
+Hi! I'm Alizée, a PhD student in Machine Learning and a fellow of the {{< staticref "https://ai.ethz.ch/" "newtab" >}}ETH AI Center{{< /staticref >}} in Zürich. I am lucky to work with {{< staticref "https://bmi.inf.ethz.ch/" "newtab" >}}Prof. Gunnar Rätsch{{< /staticref >}} and {{< staticref "http://ei.is.tuebingen.mpg.de/" "newtab" >}}Prof. Bernhard Schölkopf{{< /staticref >}}, and am also part of the {{< staticref "https://ellis.eu/" "newtab" >}}ELLIS{{< /staticref >}} PhD program.
 
 My research interests are centred on applications of ML and causal inference in medicine. I am currently wrapping up a project on imitation learning for clinical decision-making with {{< staticref "https://www.vanderschaar-lab.com/" "newtab" >}}Prof. Mihaela van der Schaar{{< /staticref >}} at the University of Cambridge. My previous experience includes medical device development for stroke treatment, sensor-assisted surgery and 3D-printed heart stents, as well as software engineering at CERN.

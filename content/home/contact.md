@@ -25,11 +25,6 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
   
-map:
-  provider: 'mapnik'
-  api_key: ''
-  zoom: 15
-  
 design:
   columns: '2'
 ---
