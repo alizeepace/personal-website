@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: ap956 [at] cam.ac.uk
+email: alizee.pace [at] inf.ethz.ch
 # phone: 888 888 88 88
 address:
-  street: King's College
-  city: Cambridge
+  street: "ETH AI Center, Universitätstrasse 6"
+  city: Zürich
   #region: CA
-  postcode: 'CB2 1ST'
-  country: United Kingdom
-  country_code: UK
+  postcode: 8092
+  country: Switzerland
+  country_code: CH
 coordinates:
-  latitude: '52.2049422111672'
-  longitude: '0.1176273431475201'
+  latitude: '47.378423473012475'
+  longitude: '8.548867276491778'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
