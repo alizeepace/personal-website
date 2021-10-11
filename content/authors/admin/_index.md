@@ -11,7 +11,7 @@ role: PhD Student in Machine Learning
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: ETH Zürich
-  url: https://ai.ethz.ch/
+  url: https://ai.ethz.ch/people/alizee-pace.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: Interested in machine learning for medicine.
@@ -71,6 +71,6 @@ highlight_name: false
 #for all three degrees (BA, MSci, MPhil)
 ---
 
-Hi! I'm Alizée, a PhD student in Machine Learning and a fellow of the {{< staticref "https://ai.ethz.ch/" "newtab" >}}ETH AI Center{{< /staticref >}} in Zürich. I am lucky to work with {{< staticref "https://bmi.inf.ethz.ch/" "newtab" >}}Prof. Gunnar Rätsch{{< /staticref >}} and {{< staticref "http://ei.is.tuebingen.mpg.de/" "newtab" >}}Prof. Bernhard Schölkopf{{< /staticref >}}, and am also part of the {{< staticref "https://ellis.eu/" "newtab" >}}ELLIS{{< /staticref >}} PhD program. My research interests are centred on applications of ML and causal inference in medicine. 
+Hi! I'm Alizée, a PhD student in Machine Learning and a fellow at the {{< staticref "https://ai.ethz.ch/" "newtab" >}}ETH AI Center{{< /staticref >}} in Zürich. I am lucky to work with {{< staticref "https://bmi.inf.ethz.ch/" "newtab" >}}Prof. Gunnar Rätsch{{< /staticref >}} and {{< staticref "http://ei.is.tuebingen.mpg.de/" "newtab" >}}Prof. Bernhard Schölkopf{{< /staticref >}}, and am also part of the {{< staticref "https://ellis.eu/" "newtab" >}}ELLIS{{< /staticref >}} PhD program. My research interests are centred on applications of ML and causal inference in medicine. 
 
-I am currently wrapping up a project on imitation learning for clinical decision-making with {{< staticref "https://www.vanderschaar-lab.com/" "newtab" >}}Prof. Mihaela van der Schaar{{< /staticref >}} at the University of Cambridge. My previous experience includes medical device development for stroke treatment, sensor-assisted surgery and 3D-printed heart stents, as well as software engineering at CERN. Before my PhD, I studied Physics, Materials Science and Machine Learning at Cambridge, where I consistently ranked first in my year.
+Before my PhD, I led a project on imitation learning for clinical decision-making with {{< staticref "https://www.vanderschaar-lab.com/" "newtab" >}}Prof. Mihaela van der Schaar{{< /staticref >}} at the University of Cambridge. My professional experience also includes medical device development for stroke treatment, sensor-assisted surgery and 3D-printed heart stents, as well as software engineering at CERN. In parallel, I studied Physics, Materials Science and Machine Learning at Cambridge, where I consistently ranked first in my year.
