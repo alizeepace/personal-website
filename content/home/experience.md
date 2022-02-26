@@ -29,7 +29,7 @@ experience:
     location: Cambridge, UK
     date_start: '2021-03-15'
     date_end: '2021-09-15'
-    description: Research project on interpretable imitation learning for clinical decision support. Our goal was to describe and understand treatment or diagnostic policies through novel decision tree models, and capture how decision-making behaviour varies over time with patient information. Publication under review.
+    description: Research project on interpretable imitation learning for clinical decision support. Our goal was to describe and understand treatment or diagnostic policies through novel decision tree models, and capture how decision-making behaviour varies over time with patient information. [Publication](https://openreview.net/forum?id=AJsI-ymaKn_) accepted as Spotlight for ICLR 2022 (5% acceptance rate).
 
   - title: Research Assistant - Bioelectronics
     company: Device Materials Group, University of Cambridge

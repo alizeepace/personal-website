@@ -10,7 +10,7 @@ role: PhD Student in Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ETH Zürich
+- name: ETH Zürich & MPI-IS
   url: https://ai.ethz.ch/people/alizee-pace.html
 
 # Short bio (displayed in user profile at end of posts)
