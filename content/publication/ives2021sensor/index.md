@@ -15,7 +15,7 @@ authors:
 - Sohini Kar-Narayan
 
 
-date: "2021-08-15T00:00:00Z"
+date: "2022-07-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,7 +28,7 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *BioRxiv*
+publication: In *Materials & Design*
 #publication_short: In *CRPS*
 
 abstract: "Balancing forces within weight-bearing joints such as the hip during joint replacement surgeries is essential for implant longevity. Minimising implant failure is vital to improve patient wellbeing and alleviate pressure on healthcare systems. With improvements in surgery, hip replacement patients are now often younger and more active than in previous generations, and their implants correspondingly need to survive higher stresses. However, force balancing currently depends entirely on surgical skill: no sensors can provide quantitative force feedback within the hip joint’s small, complex geometry. Here, we solve this unmet clinical need by presenting a thin and conformable microfluidic force sensor, which is compatible with the standard surgical process. We optimised the design using finite element modelling, then incorporated and calibrated our sensor in a model hip implant. Using a bespoke testing rig, we demonstrated high sensitivity at typical forces experienced during hip replacements. We anticipate that these sensors will aid implant positioning, increasing the lifetime of hip replacements, and represent a powerful new surgical tool for a range of orthopaedic procedures where force balancing is crucial."
@@ -52,7 +52,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://doi.org/10.1101/2021.08.19.456934'
+url_source: 'https://doi.org/10.1016/j.matdes.2022.110747'
 url_video: ''
 
 # Featured image
