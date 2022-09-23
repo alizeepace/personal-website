@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Publications
-subtitle: ''
+subtitle: 'See my [Google Scholar profile](https://scholar.google.com/citations?user=p6gHZiUAAAAJ&hl=en) for a full list of publications.'
 
 content:
   # Page type to display. E.g. post, talk, publication...

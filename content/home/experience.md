@@ -23,6 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 # , in a multidisciplinary collaboration with engineers and surgeons. Investigation of device design through Finite Element Modelling; signal processing and analysis; hardware and software development (Python). Two publications in preparation.
 experience:
+  - title: Doctoral Research Fellow
+    company: ETH AI Center, ETH Zürich
+    company_url: 'https://ai.ethz.ch/about-us/people/alizee-pace.html'
+    location: Zürich, Switzerland
+    date_start: '2021-09-15'
+    description:  My main research goal is to develop machine learning methods for clinical decision support and personalised treatment recommendation in the intensive care unit. General areas of interest include offline reinforcement learning, representation learning, causal inference and time-series modelling.
+
   - title: Research Assistant - Clinical Imitation Learning
     company: Machine Learning, AI and Medicine group, University of Cambridge
     company_url: 'https://www.vanderschaar-lab.com/'

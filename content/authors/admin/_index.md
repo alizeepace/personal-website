@@ -18,16 +18,18 @@ bio: Interested in machine learning for medicine.
 
 # Interests to show in About widget
 interests:
-- Machine Learning
-- Medical Informatics
+- Offline Reinforcement Learning
+- Imitation Learning
+- Representation Learning
 - Causal Inference
+- Clinical time-series
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Machine Learning
     institution: ETH Zürich
-    year:
+    year: started 2021
   - course: MPhil in Machine Learning and Machine Intelligence
     institution: University of Cambridge
     year: 2021
@@ -69,8 +71,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 #for all three degrees (BA, MSci, MPhil)
+#, and am also part of the {{< staticref "https://ellis.eu/" "newtab" >}}ELLIS{{< /staticref >}} PhD program
 ---
 
-Hi! I'm Alizée, a PhD student in Machine Learning and a fellow at the {{< staticref "https://ai.ethz.ch/" "newtab" >}}ETH AI Center{{< /staticref >}} in Zürich. I am lucky to work with {{< staticref "https://bmi.inf.ethz.ch/" "newtab" >}}Prof. Gunnar Rätsch{{< /staticref >}} and {{< staticref "http://ei.is.tuebingen.mpg.de/" "newtab" >}}Prof. Bernhard Schölkopf{{< /staticref >}}, and am also part of the {{< staticref "https://ellis.eu/" "newtab" >}}ELLIS{{< /staticref >}} PhD program. My research interests are centred on applications of ML and causal inference in medicine. 
+Hi! I'm Alizée, a PhD student in Machine Learning and a fellow at the {{< staticref "https://ai.ethz.ch/about-us/people/alizee-pace.html" "newtab" >}}ETH AI Center{{< /staticref >}} in Zürich. I am lucky to work with {{< staticref "https://bmi.inf.ethz.ch/people/person/alizee-pace" "newtab" >}}Prof. Gunnar Rätsch{{< /staticref >}} and {{< staticref "http://ei.is.tuebingen.mpg.de/" "newtab" >}}Prof. Bernhard Schölkopf{{< /staticref >}}. My main research goal is to develop machine learning methods for clinical decision support and personalised treatment recommendation, with an interest for offline reinforcement learning, representation learning and causal inference.
 
 Before my PhD, I led a project on imitation learning for clinical decision-making with {{< staticref "https://www.vanderschaar-lab.com/" "newtab" >}}Prof. Mihaela van der Schaar{{< /staticref >}} at the University of Cambridge. My professional experience also includes medical device development for stroke treatment, sensor-assisted surgery and 3D-printed heart stents, as well as software engineering at CERN. In parallel, I studied Physics, Materials Science and Machine Learning at Cambridge, where I consistently ranked first in my year.
