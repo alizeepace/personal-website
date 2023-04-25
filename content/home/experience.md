@@ -22,7 +22,9 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 # , in a multidisciplinary collaboration with engineers and surgeons. Investigation of device design through Finite Element Modelling; signal processing and analysis; hardware and software development (Python). Two publications in preparation.
+
 experience:
+
   - title: Doctoral Research Fellow
     company: ETH AI Center, ETH Zürich
     company_url: 'https://ai.ethz.ch/about-us/people/alizee-pace.html'
@@ -44,15 +46,16 @@ experience:
     location: Cambridge, UK
     date_start: '2019-09-15'
     date_end: '2020-03-15'
-    description: Research project on printed biocompatible force sensors for orthopaedic implants. Resulted in two publications ([here](https://doi.org/10.17863/CAM.63758), and [here](https://doi.org/10.1101/2021.08.19.456934)) and a [poster presentation](https://www.postersessiononline.eu/173580348_eu/congresos/WBC2020/aula/-WBC2020-VIR_4625_WBC2020.pdf).
-   
+    description: Research project on printed biocompatible force sensors for orthopaedic implants. Resulted in two publications ([1](https://doi.org/10.17863/CAM.63758) and [2](https://doi.org/10.1101/2021.08.19.456934)).
+# and a [poster presentation](https://www.postersessiononline.eu/173580348_eu/congresos/WBC2020/aula/-WBC2020-VIR_4625_WBC2020.pdf).   
+
   - title: R&D Engineering Intern - Medical Device Data Analysis
     company: Anaconda BioMed
     company_url: 'https://anaconda.bio/'
     location: Barcelona, Spain
     date_start: '2019-07-01'
     date_end: '2019-09-15'
-    description: Development of a new thrombectomy device which restores blood flow in stroke patients. Patent application in process.
+    description: Development of a new thrombectomy device which restores blood flow in stroke patients. Resulted in three patent applications ([1](https://patents.google.com/patent/WO2022028831A1), [2](https://patents.google.com/patent/WO2022028833A1) and [3](https://patents.google.com/patent/WO2022180083A1/))
 
   - title: Research Assistant - 3D-Printing and CT Imaging
     company: Cambridge Centre for Medical Materials, University of Cambridge
