@@ -30,7 +30,9 @@ experience:
     company_url: 'https://ai.ethz.ch/about-us/people/alizee-pace.html'
     location: Zürich, Switzerland
     date_start: '2021-09-15'
-    description:  My main research goal is to develop ML solutions for clinical decision support and personalised treatment recommendation in the intensive care unit. General areas of interest include offline reinforcement learning, representation learning, causal inference and time-series modelling.
+    description:  My main research goal is to develop ML solutions for clinical decision support and personalised treatment recommendation in the intensive care unit. General areas of interest include offline reinforcement learning, representation learning, causal inference and time-series modelling. 
+    
+    I am also actively involved in the strategic management of the ETH AI Center, as an elected academic representative on the executive committee. This includes hiring decisions, resource allocation, and coordination of academic initiatives at the intersection of >100 research groups (talk series, conference events, workshops, industrial partnerships, etc.).
 
   - title: Research Assistant - Clinical Imitation Learning
     company: Machine Learning, AI and Medicine group, University of Cambridge
