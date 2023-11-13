@@ -14,7 +14,7 @@ organizations:
   url: https://ai.ethz.ch/people/alizee-pace.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in reinforcement learning and machine learning for medicine.
+bio: Interested in reinforcement learning and machine learning for decision support.
 
 # Interests to show in About widget
 interests:
@@ -56,13 +56,10 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://uk.linkedin.com/in/aliz%C3%A9e-pace-516b4314b
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/file/d/1cMj8JS9pvYLx43OeadoBQkTEKm7bG-EV/view?usp=sharing
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,8 +70,8 @@ highlight_name: false
 #, and 
 ---
 
-Hi! I'm Alizée, a PhD student in Machine Learning and a fellow at the {{< staticref "https://ai.ethz.ch/about-us/people/alizee-pace.html" "newtab" >}}ETH AI Center{{< /staticref >}} in Zürich. I am lucky to work with {{< staticref "https://bmi.inf.ethz.ch/people/person/alizee-pace" "newtab" >}}Prof. Gunnar Rätsch{{< /staticref >}} and {{< staticref "http://ei.is.tuebingen.mpg.de/" "newtab" >}}Prof. Bernhard Schölkopf{{< /staticref >}}. I am also part of the {{< staticref "https://ellis.eu/projects/policy-learning-for-clinical-decision-support" "newtab" >}}ELLIS{{< /staticref >}} PhD program. My main research goal is to develop ML solutions for clinical decision support and personalised treatment recommendation, with an interest for offline reinforcement learning, representation learning and causal inference.
+Hi! I'm Alizée, a PhD student in Machine Learning and a fellow at the {{< staticref "https://ai.ethz.ch/about-us/people/alizee-pace.html" "newtab" >}}ETH AI Center{{< /staticref >}} in Zürich. I am lucky to work with {{< staticref "https://bmi.inf.ethz.ch/people/person/alizee-pace" "newtab" >}}Prof. Gunnar Rätsch{{< /staticref >}} and {{< staticref "http://ei.is.tuebingen.mpg.de/" "newtab" >}}Prof. Bernhard Schölkopf{{< /staticref >}}. I am also part of the {{< staticref "https://ellis.eu/projects/policy-learning-for-clinical-decision-support" "newtab" >}}ELLIS{{< /staticref >}} PhD program. My main research goal is to develop ML solutions for decision support and treatment recommendation systems, with an interest for offline reinforcement learning, representation learning and causal inference.
 
-I am an incoming student researcher at Google Zürich, working with {{< staticref "https://scholar.google.com/citations?user=EoVDI3MAAAAJ&hl=en" "newtab" >}}Aliaksei Severyn{{< /staticref >}} on RL methods to improve LLM training.
+In 2023, I was a student researcher at Google Zürich, developing new methods in Reinforcement Learning from Human Feedback (RLHF) with {{< staticref "https://scholar.google.com/citations?user=EoVDI3MAAAAJ&hl=en" "newtab" >}}Aliaksei Severyn{{< /staticref >}} and the wider {{< staticref "https://bard.google.com/chat" "newtab" >}}Bard{{< /staticref >}} team.
 
 Before my PhD, I led a project on imitation learning for clinical decision-making with {{< staticref "https://www.vanderschaar-lab.com/" "newtab" >}}Prof. Mihaela van der Schaar{{< /staticref >}} at the University of Cambridge. My professional experience also includes medical device development and software engineering at CERN. I studied Physics, Materials Science and Machine Learning at Cambridge, where I consistently ranked first in my year.

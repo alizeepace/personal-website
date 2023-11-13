@@ -8,7 +8,7 @@ authors:
 - Haobo Li
 - admin
 - Martin Faltys
-- Gunnar Ratsch
+- Gunnar Rätsch
 
 
 
