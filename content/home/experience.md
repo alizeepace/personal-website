@@ -30,11 +30,19 @@ experience:
     company_url: 'https://ai.ethz.ch/about-us/people/alizee-pace.html'
     location: Zürich, Switzerland
     date_start: '2021-09-15'
-    description:  My main research goal is to develop ML solutions for clinical decision support and personalised treatment recommendation in the intensive care unit. General areas of interest include offline reinforcement learning, representation learning, causal inference and time-series modelling. 
+    description:  My main research goal is to develop ML solutions for decision support and treatment recommendation systems. General areas of interest include offline reinforcement learning, representation learning, causal inference and time-series modelling. 
     
-    I am also actively involved in the strategic management of the ETH AI Center, as an elected academic representative on the executive committee. This includes hiring decisions, resource allocation, and coordination of academic initiatives at the intersection of >100 research groups (talk series, conference events, workshops, industrial partnerships, etc.).
+    # I am also actively involved in the strategic management of the ETH AI Center, as an elected academic representative on the executive committee. This includes hiring decisions, resource allocation, and coordination of academic initiatives at the intersection of >100 research groups (talk series, conference events, workshops, industrial partnerships, etc.).
 
-  - title: Research Assistant - Clinical Imitation Learning
+  - title: Student Researcher
+    company: Google
+    company_url: 'https://www.google.com/'
+    location: Zürich, Switzerland
+    date_start: '2023-05-30'
+    date_end: '2023-11-10'
+    description:  Developed new methods in Reinforcement Learning from Human Feedback (RLHF) applied to Large Language Models (LLMs), within the Bard Model Quality team led by [Aliaksei Severyn](https://scholar.google.com/citations?user=EoVDI3MAAAAJ&hl=en). Contributed to a new finetuning method based on human feedback, giving significant quality gains and integrated within model development. Working towards a patent and a publication at a major ML conference.
+
+  - title: Research Assistant - Machine Learning
     company: Machine Learning, AI and Medicine group, University of Cambridge
     company_url: 'https://www.vanderschaar-lab.com/'
     location: Cambridge, UK
@@ -59,13 +67,13 @@ experience:
     date_end: '2019-09-15'
     description: Development of a new thrombectomy device which restores blood flow in stroke patients. Resulted in three patent applications ([1](https://patents.google.com/patent/WO2022028831A1), [2](https://patents.google.com/patent/WO2022028833A1) and [3](https://patents.google.com/patent/WO2022180083A1/))
 
-  - title: Research Assistant - 3D-Printing and CT Imaging
-    company: Cambridge Centre for Medical Materials, University of Cambridge
-    company_url: 'https://www.ccmm.msm.cam.ac.uk/'
-    location: Cambridge, UK
-    date_start: '2018-06-01'
-    date_end: '2018-08-01'
-    description: Optimised the 3D-printing technique for biodegradable heart stents.
+  # - title: Research Assistant - 3D-Printing and CT Imaging
+  #   company: Cambridge Centre for Medical Materials, University of Cambridge
+  #   company_url: 'https://www.ccmm.msm.cam.ac.uk/'
+  #   location: Cambridge, UK
+  #   date_start: '2018-06-01'
+  #   date_end: '2018-08-01'
+  #   description: Optimised the 3D-printing technique for biodegradable heart stents.
     
   - title: Software Development Intern
     company: European Organization for Nuclear Research (CERN)
@@ -75,12 +83,12 @@ experience:
     date_end: '2016-08-30'
     description: Development of [Invenio](https://inveniosoftware.org/) user interface and of [demos](https://github.com/reanahub/reana-demo-worldpopulation) for a reproducible analysis platform.
     
-  - title: Programming Teaching Assistant
-    company: Ecole Polytechnique Fédérale de Lausanne (EPFL)
-    company_url: 'https://www.epfl.ch/en/'
-    location: Lausanne, Switzerland
-    date_start: '2016-01-01'
-    date_end: '2016-09-30'
-    description: Selected to write a 85-page book of lecture summaries for a [C++ object-oriented programming course](https://www.coursera.org/learn/programmation-orientee-objet-cpp).
+  # - title: Programming Teaching Assistant
+  #   company: Ecole Polytechnique Fédérale de Lausanne (EPFL)
+  #   company_url: 'https://www.epfl.ch/en/'
+  #   location: Lausanne, Switzerland
+  #   date_start: '2016-01-01'
+  #   date_end: '2016-09-30'
+  #   description: Selected to write a 85-page book of lecture summaries for a [C++ object-oriented programming course](https://www.coursera.org/learn/programmation-orientee-objet-cpp).
     
 ---
