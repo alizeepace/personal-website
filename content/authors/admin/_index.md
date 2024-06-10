@@ -19,7 +19,7 @@ bio: Interested in reinforcement learning and machine learning for decision supp
 # Interests to show in About widget
 interests:
 - Offline RL & Imitation
-- Representation Learning
+- RLHF
 - Causal Inference
 - Clinical Time-Series
 
@@ -72,8 +72,6 @@ highlight_name: false
 
 Hi! I'm Alizée, a PhD student in Machine Learning and a fellow at the {{< staticref "https://ai.ethz.ch/about-us/people/alizee-pace.html" "newtab" >}}ETH AI Center{{< /staticref >}} in Zürich. I am lucky to work with {{< staticref "https://bmi.inf.ethz.ch/people/person/alizee-pace" "newtab" >}}Prof. Gunnar Rätsch{{< /staticref >}} and {{< staticref "http://ei.is.tuebingen.mpg.de/" "newtab" >}}Prof. Bernhard Schölkopf{{< /staticref >}}. I am also part of the {{< staticref "https://ellis.eu/projects/policy-learning-for-clinical-decision-support" "newtab" >}}ELLIS{{< /staticref >}} PhD program. My main research goal is to develop ML solutions for decision support and treatment recommendation systems, with an interest for offline reinforcement learning, representation learning and causal inference.
 
-In 2023, I was a student researcher at Google, developing new methods in Reinforcement Learning from Human Feedback (RLHF) with {{< staticref "https://scholar.google.com/citations?user=EoVDI3MAAAAJ&hl=en" "newtab" >}}Aliaksei Severyn{{< /staticref >}} and the wider {{< staticref "https://bard.google.com/chat" "newtab" >}}Bard{{< /staticref >}} team.
+I am currently a research intern at Google, developing new methods in Reinforcement Learning from Human Feedback (RLHF) to improve LLM model quality within the {{< staticref "https://gemini.google.com/" "newtab" >}}Gemini{{< /staticref >}} team. I was already a student researcher within this team in 2023.
 
 Before my PhD, I led a project on imitation learning for clinical decision-making with {{< staticref "https://www.vanderschaar-lab.com/" "newtab" >}}Prof. Mihaela van der Schaar{{< /staticref >}} at the University of Cambridge. My professional experience also includes medical device development and software engineering at CERN. I studied Physics, Materials Science and Machine Learning at Cambridge, where I consistently ranked first in my year.
-
-I am actively looking for excellent Masters' students to supervise for their thesis (preferably at ETH). Reach out if our interests overlap!

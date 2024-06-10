@@ -24,6 +24,13 @@ date_format: Jan 2006
 # , in a multidisciplinary collaboration with engineers and surgeons. Investigation of device design through Finite Element Modelling; signal processing and analysis; hardware and software development (Python). Two publications in preparation.
 
 experience:
+  - title: Research Intern
+    company: Google
+    company_url: 'https://www.google.com/'
+    location: Zürich, Switzerland
+    date_start: '2024-06-03'
+    date_end: '2024-09-27'
+    description:  Developing new methods to improve large language model (LLM) quality within the [Gemini](https://gemini.google.com/app) team. Research focused on reinforcement learning from human feedback (RLHF) and reward modelling.
 
   - title: Doctoral Research Fellow
     company: ETH AI Center, ETH Zürich
@@ -40,7 +47,7 @@ experience:
     location: Zürich, Switzerland
     date_start: '2023-05-30'
     date_end: '2023-11-10'
-    description:  Developed new methods in Reinforcement Learning from Human Feedback (RLHF) applied to Large Language Models (LLMs), within the Bard Model Quality team led by [Aliaksei Severyn](https://scholar.google.com/citations?user=EoVDI3MAAAAJ&hl=en). Contributed to a new finetuning method based on human feedback, giving significant quality gains and integrated within model development. Working towards a patent and a publication at a major ML conference.
+    description:  Developed new methods to improve large language model (LLM) quality within the [Gemini](https://gemini.google.com/app) team. Research focused on reinforcement learning from human feedback (RLHF) and reward modelling. My contributions were integrated within the product and resulted in a patent application and a [publication](https://arxiv.org/abs/2401.12086).
 
   - title: Research Assistant - Machine Learning
     company: Machine Learning, AI and Medicine group, University of Cambridge
